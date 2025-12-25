@@ -1,0 +1,9 @@
+# Placeholder Image
+
+This is a placeholder. Replace with actual screenshot of the RAG system.
+
+To take screenshot:
+1. Run: streamlit run app.py
+2. Ask a question
+3. Take screenshot
+4. Save as demo.png in this directory

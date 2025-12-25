@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the primary product of a RAG system according to the text?",
+        "ground_truth": "Iteration is the product.",
+        "type": "specific"
+    },
+    {
+        "question": "Why is chunking considered the foundation of RAG?",
+        "ground_truth": "Because embeddings, retrieval, and generation all depend on the quality of the chunks.",
+        "type": "specific"
+    },
+    {
+        "question": "What is the recommended chunk size for the fixed-size implementation mentioned?",
+        "ground_truth": "512",
+        "type": "specific"
+    },
+    {
+        "question": "Who is the President of Mars?",
+        "ground_truth": "I don't know based on the provided documents.",
+        "type": "refusal"
+    },
+    {
+        "question": "Explain the concept of 'Parametric Knowledge' based on the documents.",
+        "ground_truth": "I don't know based on the provided documents.",
+        "type": "refusal"
+    }
+]
